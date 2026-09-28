@@ -9,7 +9,7 @@ São Paulo, SP
 ### Cargo
 Coordenador de soluções I
 
-### Tecnologias que utiliza no trabalho
+### Tecnologias que utilizo no trabalho
 Spring, Angular
 
 ### Tempo de atuação na área de TI
