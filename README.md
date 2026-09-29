@@ -14,3 +14,5 @@ Spring, Angular
 
 ### Tempo de atuação na área de TI
 10 anos
+
+https://chat.whatsapp.com/HyguMmW1JMh6VJUXluowCb?mode=gi_t
